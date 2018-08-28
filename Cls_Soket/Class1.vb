@@ -19,7 +19,6 @@ Public Class Class1
     Dim Socket_Client As New TcpClient
     Dim Socket_Stram As NetworkStream
     Dim Socket_Server_Listening As TcpListener
-    'Dim Socket_Stream_Out As Byte()
     Dim Socket_Stream_In(1024) As Byte
 
     Dim Rcv_data As String

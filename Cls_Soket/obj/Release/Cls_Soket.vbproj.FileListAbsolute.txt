@@ -6,3 +6,11 @@ D:\Cls_Soket\Cls_Soket\obj\Release\Cls_Soket.vbproj.GenerateResource.Cache
 D:\Cls_Soket\Cls_Soket\obj\Release\Cls_Soket.dll
 D:\Cls_Soket\Cls_Soket\obj\Release\Cls_Soket.xml
 D:\Cls_Soket\Cls_Soket\obj\Release\Cls_Soket.pdb
+D:\github\Cls_Soket\bin\Release\Cls_Soket.dll
+D:\github\Cls_Soket\bin\Release\Cls_Soket.pdb
+D:\github\Cls_Soket\bin\Release\Cls_Soket.xml
+D:\github\Cls_Soket\obj\Release\ClassLibrary1.Resources.resources
+D:\github\Cls_Soket\obj\Release\Cls_Soket.vbproj.GenerateResource.Cache
+D:\github\Cls_Soket\obj\Release\Cls_Soket.dll
+D:\github\Cls_Soket\obj\Release\Cls_Soket.xml
+D:\github\Cls_Soket\obj\Release\Cls_Soket.pdb
