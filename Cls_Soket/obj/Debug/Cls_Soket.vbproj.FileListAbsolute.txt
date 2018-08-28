@@ -1,0 +1,8 @@
+D:\Cls_Soket\Cls_Soket\bin\Debug\Cls_Soket.dll
+D:\Cls_Soket\Cls_Soket\bin\Debug\Cls_Soket.pdb
+D:\Cls_Soket\Cls_Soket\bin\Debug\Cls_Soket.xml
+D:\Cls_Soket\Cls_Soket\obj\Debug\ClassLibrary1.Resources.resources
+D:\Cls_Soket\Cls_Soket\obj\Debug\Cls_Soket.vbproj.GenerateResource.Cache
+D:\Cls_Soket\Cls_Soket\obj\Debug\Cls_Soket.dll
+D:\Cls_Soket\Cls_Soket\obj\Debug\Cls_Soket.xml
+D:\Cls_Soket\Cls_Soket\obj\Debug\Cls_Soket.pdb
