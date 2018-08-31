@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Cls_Soket", "Cls_Soket\Cls_Soket.vbproj", "{60F138F9-25C0-4FC4-956A-9A50B63330AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60F138F9-25C0-4FC4-956A-9A50B63330AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60F138F9-25C0-4FC4-956A-9A50B63330AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60F138F9-25C0-4FC4-956A-9A50B63330AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60F138F9-25C0-4FC4-956A-9A50B63330AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
